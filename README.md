@@ -79,7 +79,7 @@ The dataset used contains detailed information about restaurants, including:
 6. **Heatmap** correlating restaurant types with order preferences.
 
 ### Sample Visual
-![Ratings Distribution](path/to/saved_image.jpg)  
+![Ratings Distribution](Outputs/output6.png)  
 *Example: Histogram showcasing restaurant ratings.*
 
 ---
